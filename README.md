@@ -11,4 +11,3 @@
 
 * <https://playwright.dev/>
 * <https://playwright.nodejs.cn/>
-* <https://github.com/berstend/puppeteer-extra/tree/master/packages/extract-stealth-evasions>
