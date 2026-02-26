@@ -4,9 +4,13 @@ npm init playwright@latest
 
 
 
-```bahs
+
+```bash
 npx playwright help install
+
+npx playwright install --help
 ```
+
 
 
 
@@ -34,3 +38,9 @@ npx playwright
 - <https://playwright.nodejs.cn/docs/browsers>
 - [Playwright 教程](https://www.runoob.com/playwright/playwright-tutorial.html)
   - [最核心的三个对象是 Browser、BrowserContext 和 Page](https://www.runoob.com/playwright/playwright-first-script.html)
+
+
+## Ref
+
+* <https://playwright.dev/docs/intro>
+* <https://playwright.nodejs.cn/docs/browsers>
